@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kalman Filter Equations", "Kalman Filter Equations\Kalman Filter Equations.vcxproj", "{79BC2BDC-7AD8-4FDC-BC3B-3A7A1E9FA61B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79BC2BDC-7AD8-4FDC-BC3B-3A7A1E9FA61B}.Debug|x64.ActiveCfg = Debug|x64
+		{79BC2BDC-7AD8-4FDC-BC3B-3A7A1E9FA61B}.Debug|x64.Build.0 = Debug|x64
+		{79BC2BDC-7AD8-4FDC-BC3B-3A7A1E9FA61B}.Debug|x86.ActiveCfg = Debug|Win32
+		{79BC2BDC-7AD8-4FDC-BC3B-3A7A1E9FA61B}.Debug|x86.Build.0 = Debug|Win32
+		{79BC2BDC-7AD8-4FDC-BC3B-3A7A1E9FA61B}.Release|x64.ActiveCfg = Release|x64
+		{79BC2BDC-7AD8-4FDC-BC3B-3A7A1E9FA61B}.Release|x64.Build.0 = Release|x64
+		{79BC2BDC-7AD8-4FDC-BC3B-3A7A1E9FA61B}.Release|x86.ActiveCfg = Release|Win32
+		{79BC2BDC-7AD8-4FDC-BC3B-3A7A1E9FA61B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DF5354F-4D4D-404C-8D52-E08BC0174308}
+	EndGlobalSection
+EndGlobal

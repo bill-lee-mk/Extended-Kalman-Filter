@@ -1,0 +1,6 @@
+﻿  Jacobian Matrix.cpp
+c:\users\administrator\onedrive\self driving car\term2\laser measurements\laser measurements\jacobian matrix.cpp(33): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+c:\users\administrator\onedrive\self driving car\term2\laser measurements\laser measurements\jacobian matrix.cpp(34): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+c:\users\administrator\onedrive\self driving car\term2\laser measurements\laser measurements\jacobian matrix.cpp(35): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+c:\users\administrator\onedrive\self driving car\term2\laser measurements\laser measurements\jacobian matrix.cpp(36): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+  Jacobian Matrix.vcxproj -> C:\Users\Administrator\OneDrive\Self Driving Car\Term2\Jacobian Matrix\Debug\Jacobian Matrix.exe
